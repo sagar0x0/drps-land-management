@@ -1,0 +1,20 @@
+{
+  "name": "drps-land-management",
+  "version": "1.0.0",
+  "description": "Core Stack:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagar0x0/drps-land-management.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagar0x0/drps-land-management/issues"
+  },
+  "homepage": "https://github.com/sagar0x0/drps-land-management#readme"
+}
