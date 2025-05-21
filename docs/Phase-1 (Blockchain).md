@@ -389,13 +389,18 @@ npx hardhat test
 
 Start a local Hardhat node:
 
-bash
+```bash
 npx hardhat node
 In a separate terminal, deploy to the local network:
+```
 
-bash
+![[Pasted image 20250521232144.png]]
+
+
+```bash
 npx hardhat run scripts/deploy.js --network localhost
 
+```
 
 15. Deploy to XDC Testnet
 
