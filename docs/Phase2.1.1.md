@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Next Steps for Your Land Registry Project
 
 Based on your progress and the steps you've already followed, here's a detailed guide on what to do next to get your system fully operational:
