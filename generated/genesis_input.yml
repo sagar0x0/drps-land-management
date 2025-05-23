@@ -1,6 +1,0 @@
-name: myxdcsubnet
-grandmasters:
-  - '0x87E7272dd37e5b4812642f8f87B46A636A442086'
-masternodes:
-  - '0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B'
-chainid: 31241
