@@ -152,6 +152,10 @@
                 "type": "array",
                 "items": { "type": "string" }
               },
+              "buyers": {
+                "type": "array",
+                "items": { "type": "string" }
+              },
               "deed_number":          { "type": "string" },
               "registration_office":  { "type": "string" }
             }
