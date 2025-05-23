@@ -1,0 +1,1880 @@
+WARN [05-23|12:13:00] [initial] initial v2 related parameters 
+WARN [05-23|12:13:00] [initial] miner wait period              period=2
+WARN [05-23|12:13:00] [initial] finish initialisation 
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 0
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 0
+yourturn 0 0
+WARN [05-23|12:13:03] [ProcessVoteEquivocation] HighestCommittedQCs value not set incomingVoteProposedBlockHash=fa1b55…4ceec8 incomingVoteProposedBlockNumber=1 incomingVoteProposedBlockRound=1
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 1
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 1
+yourturn 0 0
+WARN [05-23|12:13:05] [ProcessVoteEquivocation] HighestCommittedQCs value not set incomingVoteProposedBlockHash=d7e310…8bd47a incomingVoteProposedBlockNumber=2 incomingVoteProposedBlockRound=2
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 2
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 2
+yourturn 0 0
+WARN [05-23|12:13:07] [ProcessForensics] HighestCommittedQCs value not set incomingQcProposedBlockHash=6eb7e3…f3ec52 incomingQcProposedBlockNumber=3 incomingQcProposedBlockRound=3
+WARN [05-23|12:13:08] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 3
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 3
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 4
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 4
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 5
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 5
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 6
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 6
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 7
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 7
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 8
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 8
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 9
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 9
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 10
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 10
+yourturn 0 0
+WARN [05-23|12:13:25] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 11
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 11
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 12
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 12
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 13
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 13
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 14
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 14
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 15
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 15
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 16
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 16
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 17
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 17
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 18
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 18
+yourturn 0 0
+WARN [05-23|12:13:41] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 19
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 19
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 20
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 20
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 21
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 21
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 22
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 22
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 23
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 23
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 24
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 24
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 25
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 25
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 26
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 26
+yourturn 0 0
+WARN [05-23|12:13:57] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 27
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 27
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 28
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 28
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 29
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 29
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 30
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 30
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 31
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 31
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 32
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 32
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 33
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 33
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 34
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 34
+yourturn 0 0
+WARN [05-23|12:14:13] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 35
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 35
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 36
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 36
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 37
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 37
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 38
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 38
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 39
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 39
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 40
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 40
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 41
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 41
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 42
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 42
+yourturn 0 0
+WARN [05-23|12:14:29] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 43
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 43
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 44
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 44
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 45
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 45
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 46
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 46
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 47
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 47
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 48
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 48
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 49
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 49
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 50
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 50
+yourturn 0 0
+WARN [05-23|12:14:45] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 51
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 51
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 52
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 52
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 53
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 53
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 54
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 54
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 55
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 55
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 56
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 56
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 57
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 57
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 58
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 58
+yourturn 0 0
+WARN [05-23|12:15:01] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 59
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 59
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 60
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 60
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 61
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 61
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 62
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 62
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 63
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 63
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 64
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 64
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 65
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 65
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 66
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 66
+yourturn 0 0
+WARN [05-23|12:15:17] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 67
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 67
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 68
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 68
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 69
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 69
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 70
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 70
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 71
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 71
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 72
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 72
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 73
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 73
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 74
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 74
+yourturn 0 0
+WARN [05-23|12:15:34] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 75
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 75
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 76
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 76
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 77
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 77
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 78
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 78
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 79
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 79
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 80
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 80
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 81
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 81
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 82
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 82
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 83
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 83
+yourturn 0 0
+WARN [05-23|12:15:50] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 84
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 84
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 85
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 85
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 86
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 86
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 87
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 87
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 88
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 88
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 89
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 89
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 90
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 90
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 91
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 91
+yourturn 0 0
+WARN [05-23|12:16:06] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 92
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 92
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 93
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 93
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 94
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 94
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 95
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 95
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 96
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 96
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 97
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 97
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 98
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 98
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 99
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 99
+yourturn 0 0
+WARN [05-23|12:16:22] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 100
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 100
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 101
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 101
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 102
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 102
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 103
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 103
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 104
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 104
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 105
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 105
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 106
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 106
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 107
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 107
+yourturn 0 0
+WARN [05-23|12:16:38] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 108
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 108
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 109
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 109
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 110
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 110
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 111
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 111
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 112
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 112
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 113
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 113
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 114
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 114
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 115
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 115
+yourturn 0 0
+WARN [05-23|12:16:54] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 116
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 116
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 117
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 117
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 118
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 118
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 119
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 119
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 120
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 120
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 121
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 121
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 122
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 122
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 123
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 123
+yourturn 0 0
+WARN [05-23|12:17:10] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 124
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 124
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 125
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 125
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 126
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 126
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 127
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 127
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 128
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 128
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 129
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 129
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 130
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 130
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 131
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 131
+yourturn 0 0
+WARN [05-23|12:17:27] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 132
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 132
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 133
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 133
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 134
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 134
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 135
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 135
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 136
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 136
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 137
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 137
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 138
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 138
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 139
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 139
+yourturn 0 0
+WARN [05-23|12:17:43] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 140
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 140
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 141
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 141
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 142
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 142
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 143
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 143
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 144
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 144
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 145
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 145
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 146
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 146
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 147
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 147
+yourturn 0 0
+WARN [05-23|12:17:59] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 148
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 148
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 149
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 149
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 150
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 150
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 151
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 151
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 152
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 152
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 153
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 153
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 154
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 154
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 155
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 155
+yourturn 0 0
+WARN [05-23|12:18:15] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 156
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 156
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 157
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 157
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 158
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 158
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 159
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 159
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 160
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 160
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 161
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 161
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 162
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 162
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 163
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 163
+yourturn 0 0
+WARN [05-23|12:18:31] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 164
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 164
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 165
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 165
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 166
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 166
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 167
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 167
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 168
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 168
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 169
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 169
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 170
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 170
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 171
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 171
+yourturn 0 0
+WARN [05-23|12:18:47] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 172
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 172
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 173
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 173
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 174
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 174
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 175
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 175
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 176
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 176
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 177
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 177
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 178
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 178
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 179
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 179
+yourturn 0 0
+WARN [05-23|12:19:03] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 180
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 180
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 181
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 181
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 182
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 182
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 183
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 183
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 184
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 184
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 185
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 185
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 186
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 186
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 187
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 187
+yourturn 0 0
+WARN [05-23|12:19:19] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 188
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 188
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 189
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 189
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 190
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 190
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 191
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 191
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 192
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 192
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 193
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 193
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 194
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 194
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 195
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 195
+yourturn 0 0
+WARN [05-23|12:19:36] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: no route to host"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 196
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 196
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 197
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 197
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 198
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 198
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 199
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 199
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 200
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 200
+yourturn 0 0
+WARN [05-23|12:19:46] Stats server unreachable                 err="dial tcp 192.168.25.53:5213: connect: connection refused"
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 201
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 201
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 202
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 202
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 203
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 203
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 204
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 204
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 205
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 205
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 206
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 206
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 207
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 207
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 208
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 208
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 209
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 209
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 210
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 210
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 211
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 211
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 212
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 212
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 213
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 213
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 214
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 214
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 215
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 215
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 216
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 216
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 217
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 217
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 218
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 218
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 219
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 219
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 220
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 220
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 221
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 221
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 222
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 222
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 223
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 223
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 224
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 224
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 225
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 225
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 226
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 226
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 227
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 227
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 228
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 228
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 229
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 229
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 230
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 230
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 231
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 231
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 232
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 232
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 233
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 233
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 234
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 234
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 235
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 235
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 236
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 236
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 237
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 237
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 238
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 238
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 239
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 239
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 240
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 240
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 241
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 241
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 242
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 242
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 243
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 243
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 244
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 244
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 245
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 245
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 246
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 246
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 247
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 247
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 248
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 248
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 249
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 249
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 250
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 250
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 251
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 251
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 252
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 252
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 253
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 253
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 254
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 254
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 255
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 255
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 256
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 256
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 257
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 257
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 258
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 258
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 259
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 259
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 260
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 260
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 261
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 261
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 262
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 262
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 263
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 263
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 264
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 264
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 265
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 265
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 266
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 266
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 267
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 267
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 268
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 268
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 269
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 269
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 270
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 270
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 271
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 271
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 272
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 272
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 273
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 273
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 274
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 274
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 275
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 275
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 276
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 276
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 277
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 277
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 278
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 278
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 279
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 279
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 280
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 280
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 281
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 281
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 282
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 282
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 283
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 283
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 284
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 284
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 285
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 285
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 286
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 286
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 287
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 287
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 288
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 288
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 289
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 289
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 290
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 290
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 291
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 291
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 292
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 292
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 293
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 293
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 294
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 294
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 295
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 295
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 296
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 296
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 297
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 297
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 298
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 298
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 299
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 299
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 300
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 300
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 301
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 301
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 302
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 302
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 303
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 303
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 304
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 304
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 305
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 305
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 306
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 306
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 307
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 307
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 308
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 308
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 309
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 309
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 310
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 310
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 311
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 311
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 312
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 312
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 313
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 313
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 314
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 314
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 315
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 315
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 316
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 316
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 317
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 317
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 318
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 318
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 319
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 319
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 320
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 320
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 321
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 321
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 322
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 322
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 323
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 323
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 324
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 324
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 325
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 325
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 326
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 326
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 327
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 327
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 328
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 328
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 329
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 329
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 330
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 330
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 331
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 331
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 332
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 332
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 333
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 333
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 334
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 334
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 335
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 335
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 336
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 336
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 337
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 337
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 338
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 338
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 339
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 339
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 340
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 340
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 341
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 341
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 342
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 342
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 343
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 343
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 344
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 344
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 345
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 345
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 346
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 346
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 347
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 347
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 348
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 348
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 349
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 349
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 350
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 350
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 351
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 351
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 352
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 352
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 353
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 353
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 354
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 354
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 355
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 355
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 356
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 356
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 357
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 357
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 358
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 358
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 359
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 359
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 360
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 360
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 361
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 361
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 362
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 362
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 363
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 363
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 364
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 364
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 365
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 365
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 366
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 366
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 367
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 367
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 368
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 368
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 369
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 369
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 370
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 370
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 371
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 371
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 372
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 372
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 373
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 373
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 374
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 374
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 375
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 375
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 376
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 376
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 377
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 377
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 378
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 378
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 379
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 379
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 380
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 380
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 381
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 381
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 382
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 382
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 383
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 383
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 384
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 384
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 385
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 385
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 386
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 386
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 387
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 387
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 388
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 388
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 389
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 389
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 390
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 390
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 391
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 391
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 392
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 392
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 393
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 393
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 394
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 394
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 395
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 395
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 396
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 396
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 397
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 397
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 398
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 398
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 399
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 399
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 400
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 400
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 401
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 401
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 402
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 402
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 403
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 403
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 404
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 404
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 405
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 405
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 406
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 406
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 407
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 407
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 408
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 408
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 409
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 409
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 410
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 410
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 411
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 411
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 412
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 412
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 413
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 413
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 414
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 414
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 415
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 415
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 416
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 416
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 417
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 417
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 418
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 418
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 419
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 419
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 420
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 420
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 421
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 421
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 422
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 422
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 423
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 423
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 424
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 424
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 425
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 425
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 426
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 426
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 427
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 427
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 428
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 428
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 429
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 429
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 430
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 430
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 431
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 431
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 432
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 432
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 433
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 433
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 434
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 434
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 435
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 435
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 436
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 436
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 437
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 437
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 438
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 438
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 439
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 439
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 440
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 440
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 441
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 441
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 442
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 442
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 443
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 443
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 444
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 444
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 445
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 445
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 446
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 446
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 447
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 447
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 448
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 448
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 449
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 449
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 450
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 450
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 451
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 451
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 452
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 452
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 453
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 453
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 454
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 454
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 455
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 455
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 456
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 456
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 457
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 457
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 458
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 458
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 459
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 459
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 460
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 460
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 461
+yourturn 0 0
+[yourturn] Masternode: index 0 address 0xfA566220f26E00D2fa7dCaBB8d66816F7a83705B parentBlockNum 461
+yourturn 0 0
