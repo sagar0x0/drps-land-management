@@ -78,6 +78,7 @@
       "previous_transaction": {
         "date": "2018-06-15",
         "sellers": ["YASH PAUL BATRA", "INDER PAUL BATRA", "DHARAM PAUL BATRA", "MITTER PAUL BATRA"],
+        "buyers": ["ANJU KHURANA", "ANJANA GULATI"],
         "deed_number": "8636",
         "registration_office": "Sub-Registrar-VI-A, Pitampura"
       }
