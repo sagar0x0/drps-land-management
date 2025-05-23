@@ -16229,3 +16229,484 @@
 2025-05-23 18:07:42 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
 2025-05-23 18:07:42 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
 2025-05-23 18:07:42 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:07:47 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:07:47 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:07:47 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:07:47 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:07:52 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:07:52 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:07:52 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:07:52 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:07:57 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:07:57 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:07:57 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:07:57 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:02 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:02 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:02 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:02 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:07 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:07 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:07 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:07 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:12 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:12 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:12 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:12 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:17 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:17 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:17 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:17 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:22 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:22 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:22 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:22 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:27 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:27 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:27 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:27 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:32 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:32 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:32 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:32 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:37 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:37 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:37 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:37 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:42 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:42 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:42 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:42 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:47 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:47 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:47 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:47 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:52 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:52 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:52 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:52 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:57 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:57 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:57 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:08:57 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:02 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:02 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:02 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:02 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:07 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:07 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:07 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:07 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:12 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:12 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:12 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:12 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:17 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:17 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:17 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:17 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:22 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:22 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:22 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:22 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:27 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:27 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:27 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:27 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:32 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:32 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:32 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:32 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:37 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:37 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:37 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:37 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:42 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:42 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:42 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:42 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:47 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:47 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:47 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:47 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:52 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:52 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:52 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:52 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:57 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:57 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:57 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:09:57 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:02 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:02 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:02 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:02 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:07 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:07 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:07 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:07 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:12 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:12 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:12 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:12 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:17 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:17 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:17 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:17 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:22 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:22 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:22 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:22 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:27 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:27 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:27 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:27 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:32 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:32 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:32 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:32 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:37 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:37 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:37 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:37 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:42 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:42 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:42 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:42 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:47 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:47 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:47 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:47 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:52 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:52 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:52 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:52 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:57 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:57 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:57 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:10:57 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:02 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:02 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:02 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:02 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:07 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:07 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:07 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:07 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:12 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:12 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:12 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:12 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:17 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:17 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:17 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:17 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:22 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:22 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:22 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:22 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:27 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:27 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:27 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:27 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:32 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:32 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:32 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:32 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:37 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:37 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:37 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:37 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:42 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:42 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:42 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:42 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:47 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:47 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:47 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:47 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:52 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:52 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:52 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:52 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:57 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:57 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:57 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:11:57 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:02 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:02 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:02 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:02 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:07 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:07 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:07 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:07 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:12 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:12 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:12 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:12 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:17 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:17 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:17 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:17 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:22 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:22 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:22 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:22 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:27 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:27 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:27 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:27 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:32 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:32 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:32 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:32 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:37 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:37 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:37 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:37 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:42 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:42 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:42 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:42 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:47 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:47 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:47 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:47 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:52 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:52 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:52 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:52 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:57 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:57 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:57 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:12:57 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:02 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:02 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:02 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:02 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:07 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:07 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:07 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:07 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:12 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:12 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:12 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:12 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:17 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:17 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:17 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:17 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:22 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:22 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:22 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:22 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:27 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:27 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:27 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:27 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:32 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:32 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:32 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:32 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:37 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:37 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:37 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:37 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:42 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:42 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:42 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:42 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:47 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:47 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:47 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:47 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:52 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:52 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:52 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:52 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:57 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:57 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:57 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:13:57 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:02 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:02 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:02 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:02 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:07 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:07 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:07 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:07 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:12 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:12 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:12 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:12 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:17 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:17 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:17 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:17 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:22 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:22 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:22 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:22 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:27 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:27 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:27 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:27 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:32 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:32 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:32 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:32 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:37 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:37 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:37 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:37 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:42 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:42 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:42 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:42 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:47 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:47 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:47 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:47 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:52 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:52 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:52 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:52 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:57 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:57 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:57 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:14:57 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:02 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:02 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:02 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:02 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:07 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:07 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:07 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:07 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:12 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:12 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:12 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:12 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:17 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:17 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:17 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:17 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:22 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:22 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:22 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:22 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:27 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:27 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:27 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:27 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:32 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:32 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:32 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:32 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:37 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:37 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:37 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:37 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:42 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:42 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:42 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:42 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:47 error: Fail to load chain network information from subnet nodes, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:47 error: [GET] /information/chainsetting >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:47 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:47 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:47 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:47 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:47 error: Fail to load chain network information from subnet nodes, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:47 error: [GET] /information/chainsetting >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:47 error: Error while trying to fetch the last audited subnet's block in XDC mainnet CONNECTION ERROR: Couldn't connect to node https://erpc.apothem.network/.
+2025-05-23 18:15:52 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:52 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:52 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:52 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:57 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:57 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:57 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:15:57 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:02 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:02 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:02 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:02 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:07 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:07 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:07 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:07 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:12 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:12 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:12 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:12 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:17 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:17 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:17 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:17 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:22 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:22 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:22 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:22 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:27 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:27 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:27 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:27 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:32 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:32 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:32 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:32 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:37 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:37 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:37 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:37 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:42 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:42 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:42 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:42 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:47 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:47 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:47 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:47 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:52 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:52 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:52 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:52 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:57 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:57 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:57 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:16:57 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:02 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:02 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:02 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:02 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:07 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:07 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:07 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:07 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:12 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:12 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:12 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:12 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:17 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:17 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:17 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:17 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:22 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:22 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:22 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:22 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:27 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:27 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:27 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:27 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:32 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:32 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:32 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:32 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:37 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:37 error: Exception when load most recent blocks, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:37 error: [GET] /information/blocks >> StatusCode:: 500, Message:: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
+2025-05-23 18:17:37 error: Fail to load last committed block information from subnet, Error: CONNECTION ERROR: Couldn't connect to node http://192.168.25.11:8545.
