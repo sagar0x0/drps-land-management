@@ -1,0 +1,423 @@
+{
+  "fraud_agent": {
+    "status": 200,
+    "data": {
+      "overall_risk_score": 0.95,
+      "fraud_status": "HIGH_RISK_FRAUD_SUSPECTED",
+      "recommendation": "IMMEDIATE_INVESTIGATION_REQUIRED",
+      "fraud_indicators": [
+        "Suspicious payment concentration patterns detected",
+        "Undervaluation detected: 64.7% below market"
+      ],
+      "analysis_results": {
+        "price_deviation": {
+          "suspicious": false,
+          "risk_score": 0.0,
+          "reason": "Missing transaction or calculated cost data",
+          "analysis_type": "price_deviation"
+        },
+        "payment_concentration": {
+          "suspicious": true,
+          "risk_score": 0.9,
+          "details": [
+            {
+              "type": "high_concentration_same_day_bank",
+              "date": "2021-11-15",
+              "bank": "Canara Bank, Rani Bagh, Delhi",
+              "amount": 1125000.0,
+              "concentration_ratio": 1.0
+            },
+            {
+              "type": "same_day_payment_concentration",
+              "date": "2021-11-15",
+              "amount": 1125000.0,
+              "concentration_ratio": 1.0
+            }
+          ],
+          "payment_summary": {
+            "total_amount": 1125000,
+            "number_of_payments": 2,
+            "unique_banks": 1,
+            "unique_dates": 1,
+            "payment_methods": [
+              "RTGS"
+            ]
+          },
+          "ai_insights": {
+            "laundering_risk": "moderate",
+            "structuring_indicators": "none detected",
+            "source_concerns": "potential",
+            "banking_patterns": "high concentration, same day, same bank"
+          },
+          "analysis_type": "payment_concentration"
+        },
+        "rapid_transfers": {
+          "suspicious": false,
+          "risk_score": 0.0,
+          "periods": [],
+          "property_id": "V-686",
+          "total_transfers": 1,
+          "rapid_transfers_count": 0,
+          "ai_insights": {},
+          "analysis_type": "rapid_ownership_transfers"
+        },
+        "identity_consistency": {
+          "suspicious": false,
+          "risk_score": 0.0,
+          "issues": [],
+          "party_summary": {
+            "sellers_count": 2,
+            "unique_seller_names": 2,
+            "unique_seller_addresses": 2,
+            "buyer_name": "SMT. MANJULA",
+            "buyer_contact_available": true
+          },
+          "ai_insights": {},
+          "analysis_type": "party_identity_consistency"
+        },
+        "undervaluation": {
+          "suspicious": true,
+          "risk_score": 0.95,
+          "deviation": 0.6472291894196,
+          "deviation_percentage": 64.72291894195999,
+          "severity": "CRITICAL",
+          "valuation_breakdown": {
+            "transaction_amount": 1125000,
+            "expected_land_value": 2813291.52,
+            "expected_construction_value": 375747.84,
+            "total_expected_value": 3189039.36,
+            "undervaluation_amount": 2064039.3599999999
+          },
+          "tax_implications": {
+            "potential_stamp_duty_saved": 103201.968,
+            "estimated_stamp_duty_rate": 0.05
+          },
+          "ai_insights": {
+            "tax_evasion_risk": "High",
+            "market_manipulation": "Possible",
+            "collusive_patterns": "Likely",
+            "compliance_risks": "High"
+          },
+          "analysis_type": "undervaluation_fraud"
+        }
+      },
+      "timestamp": "2025-05-24T12:42:58.458120",
+      "property_id": "V-686",
+      "transaction_amount": 1125000
+    }
+  },
+  "verification_agent": {
+    "status": 200,
+    "data": {
+      "overall_score": 0.16666666666666666,
+      "authenticity_status": "SUSPICIOUS_OR_INVALID",
+      "verification_details": {
+        "certificate_verification": {
+          "valid": false,
+          "confidence": 0.2,
+          "issues": [
+            "Unusual state/region code '0L'",
+            "Format does not match typical sale deed registration numbers",
+            "Inconsistent with standard government certificate number patterns"
+          ],
+          "format_check": "The format does not align with known Indian government document patterns for real estate, particularly sale deeds."
+        },
+        "stamp_duty_verification": {
+          "compliant": false,
+          "expected_amount": 56250,
+          "deviation_percentage": 20,
+          "applicable_rate": 5,
+          "issues": [
+            "The locality 'RISHI NAGAR' is not explicitly identified by state in the query; assuming it is in Uttarakhand based on common locality names and recent circle rate updates.",
+            "Uttarakhand stamp duty is generally around 5% of the transaction amount based on circle rates and market value.",
+            "Expected stamp duty on ₹1,125,000 at 5% is ₹56,250, but only ₹45,000 was paid, which is 20% less than expected.",
+            "Paid stamp duty is below the typical rate, indicating underpayment or non-compliance unless specific concessions or lower circle rates apply.",
+            "No information on registration charges or gender-based concessions was provided; these may affect total payable amount.",
+            "Verification of exact state and applicable local rates is necessary for precise compliance check."
+          ]
+        },
+        "registration_verification": {
+          "valid": true,
+          "confidence": 1.0,
+          "issues": [],
+          "missing_fields": [],
+          "verification_status": "complete"
+        },
+        "hash_verification": {
+          "valid": false,
+          "confidence": 0.0,
+          "provided_hash": "SUBIN-DLOL-SHCIL14740498291127T",
+          "calculated_hash": "cfeaab0168ce4373774e39bee2cdd3b9d80bcd202dd4926c994b261fd031bd86",
+          "issues": [
+            "Document hash mismatch - possible tampering detected",
+            "Invalid hash format - not a standard cryptographic hash"
+          ],
+          "hash_algorithm": "SHA256"
+        },
+        "ownership_verification": {
+          "valid": false,
+          "confidence": 0.75,
+          "issues": [
+            "No apparent connection between previous and current sellers"
+          ],
+          "chain_status": "broken",
+          "previous_sellers": [
+            "SHRI YASH PAUL BATRA",
+            "SHRI MITTER PAUL BATRA",
+            "SHRI DHARAM PAUL BATRA",
+            "SHRI INDER PAUL BATRA"
+          ],
+          "current_sellers": [
+            "SMT. ANJANA GULATI",
+            "SMT. ANJU KHURANA"
+          ]
+        },
+        "jurisdiction_verification": {
+          "valid": false,
+          "confidence": 0.0,
+          "issues": [
+            "Invalid response format from verification service"
+          ],
+          "expected_office": null,
+          "verification_status": "error"
+        }
+      },
+      "discrepancies": [
+        {
+          "issue": "Unusual state/region code '0L'",
+          "severity": "medium"
+        },
+        {
+          "issue": "Format does not match typical sale deed registration numbers",
+          "severity": "medium"
+        },
+        {
+          "issue": "Inconsistent with standard government certificate number patterns",
+          "severity": "medium"
+        },
+        {
+          "issue": "The locality 'RISHI NAGAR' is not explicitly identified by state in the query; assuming it is in Uttarakhand based on common locality names and recent circle rate updates.",
+          "severity": "medium"
+        },
+        {
+          "issue": "Uttarakhand stamp duty is generally around 5% of the transaction amount based on circle rates and market value.",
+          "severity": "medium"
+        },
+        {
+          "issue": "Expected stamp duty on ₹1,125,000 at 5% is ₹56,250, but only ₹45,000 was paid, which is 20% less than expected.",
+          "severity": "medium"
+        },
+        {
+          "issue": "Paid stamp duty is below the typical rate, indicating underpayment or non-compliance unless specific concessions or lower circle rates apply.",
+          "severity": "medium"
+        },
+        {
+          "issue": "No information on registration charges or gender-based concessions was provided; these may affect total payable amount.",
+          "severity": "medium"
+        },
+        {
+          "issue": "Verification of exact state and applicable local rates is necessary for precise compliance check.",
+          "severity": "medium"
+        },
+        {
+          "issue": "Document hash mismatch - possible tampering detected",
+          "severity": "medium"
+        },
+        {
+          "issue": "Invalid hash format - not a standard cryptographic hash",
+          "severity": "medium"
+        },
+        {
+          "issue": "No apparent connection between previous and current sellers",
+          "severity": "medium"
+        },
+        {
+          "issue": "Invalid response format from verification service",
+          "severity": "medium"
+        }
+      ],
+      "timestamp": "2025-05-24T12:43:01.635535"
+    }
+  },
+  "valuation_agent": {
+    "status": 200,
+    "data": {
+      "final_valuation": 3189039.36,
+      "confidence_score": 0.4,
+      "valuation_breakdown": {
+        "market_valuation": {
+          "fair_market_value": 3189039.36,
+          "confidence": 0.4,
+          "valuations_breakdown": {
+            "circle_rate_method": {
+              "land_value": 2813291.52,
+              "construction_value": 375747.84,
+              "total_value": 3189039.36,
+              "confidence": 0.8
+            },
+            "market_approach": {
+              "error": "'>' not supported between instances of 'NoneType' and 'int'",
+              "confidence": 0.0
+            }
+          },
+          "methodology": "weighted_multi_approach",
+          "ai_insights": {
+            "recommended_method": "circle_rate_method",
+            "discrepancy_factors": [
+              "Circle rate vs. market rate gap: The circle rate is often set below actual market prices, especially in high-demand urban areas, leading to significant differences between circle rate valuation and actual transaction prices.",
+              "Market approach data error: The market approach failed due to missing comparable data, which is common in less transparent or rapidly changing localities.",
+              "Land share complexity: The property has a 1/4 share in land, complicating valuation and potentially reducing marketability.",
+              "Built-up vs. land area: The built-up area is only 60 sq. yds. out of a total land area of 125 sq. yds., which may not be fully reflected in the circle rate method.",
+              "Location and infrastructure: Proximity to essential services, public transport, and ongoing infrastructure projects (like metro expansion) can cause rapid value changes not captured by static circle rates[4][5]."
+            ],
+            "market_conditions": [
+              "Strong demand in Delhi-NCR: Delhi-NCR has seen record residential property sales, indicating robust demand and upward price pressure[3][4].",
+              "Infrastructure development: Ongoing metro expansion and improved connectivity are positively impacting property values in the region[4][5].",
+              "Seller's market: Current trends suggest a seller's market in Delhi-NCR, with prices rising and limited inventory in well-connected areas[1][4].",
+              "High transaction volumes: The residential sector is expected to remain dominant, with over 70% market share by 2026[2]."
+            ],
+            "adjustments": [
+              "Collect recent comparable sales data to enable a market approach, which is more reflective of actual buyer willingness to pay.",
+              "Adjust for land share and built-up area to ensure accurate representation of the property's utility and marketability.",
+              "Factor in location-specific benefits such as proximity to metro, schools, and hospitals, which are key value drivers in Delhi[4][5].",
+              "Update valuation models to reflect current market trends and infrastructure developments, not just static circle rates.",
+              "Consider the condition and age of the property, as well-maintained post-2000 constructions generally command higher prices[5]."
+            ]
+          },
+          "price_per_sqm": 63552.0
+        },
+        "comparable_analysis": {
+          "comparables": [],
+          "market_value_estimate": 0,
+          "average_price_per_sqm": 0.0,
+          "confidence": 0,
+          "comparable_count": 0,
+          "analysis_date": "2025-05-24T12:43:26.019690"
+        },
+        "construction_assessment": {
+          "accurate": false,
+          "confidence": 0.2,
+          "assessment": "INACCURATE",
+          "calculated_cost": 375747,
+          "expected_cost": 200720.0,
+          "deviation_percentage": 87.19958150657632,
+          "standard_rate_used": 4000.0,
+          "rate_category": "residential",
+          "year_category": "before_2005",
+          "floor_adjustment": 1.0,
+          "ai_insights": {
+            "reasons": [
+              "Incorrect area conversion or calculation: The calculated cost may be based on a different area (e.g., built-up area vs. carpet area, or incorrect conversion between sq. meters and sq. feet).",
+              "Outdated or non-localized cost rates: The calculation might use higher per sq. ft. rates than typical for standard construction in Delhi, or may include premium finishes or services not reflected in the expected cost.",
+              "Inclusion of additional costs: The calculated cost may include extra expenses such as approvals, professional fees, or interior fittings, which are not part of the expected cost.",
+              "Labor and material price fluctuations: Recent increases in labor or material costs in Delhi could cause a higher calculated cost if not accounted for in the expected cost.",
+              "Calculation error: There may be a mathematical or data entry error in the calculation process."
+            ],
+            "validity_assessment": "The calculated cost (₹375,747) is significantly higher than the expected cost (₹200,720), which is unusual for standard residential construction in Delhi unless there are specific premium features or errors in calculation. Current Delhi construction costs for basic residential properties are typically in the range of ₹2,700–₹3,800 per sq. ft. for full construction, depending on finishes and amenities[2][4][5]. For a property of 50.18 sq. meters (approx. 540 sq. ft.), the expected cost range would be ₹1,458,000–₹2,052,000 if calculated at these rates, suggesting both the calculated and expected costs provided are likely not for full construction but possibly for a specific component or share (like land share or partial construction).",
+            "recommendations": [
+              "Verify the area and cost basis: Ensure the correct area (built-up, carpet, or land share) and cost per sq. ft. are used.",
+              "Check for inclusion of extra costs: Review if the calculated cost includes additional charges not present in the expected cost.",
+              "Update cost rates: Use current, locality-specific construction rates for Delhi.",
+              "Reconcile calculation methodology: Double-check the calculation process for errors or inconsistencies.",
+              "Clarify scope: Confirm whether the cost is for full construction, partial work, or land share only."
+            ]
+          }
+        },
+        "location_analysis": {
+          "location_multiplier": 1.1,
+          "premium_discount_percentage": 10.000000000000009,
+          "location_category": "GOOD_LOCATION",
+          "location_score": 0.74,
+          "factor_breakdown": {
+            "connectivity": 0.8,
+            "amenities": 0.7,
+            "infrastructure": 0.8,
+            "safety": 0.6,
+            "development_potential": 0.7,
+            "market_demand": 0.8
+          },
+          "ai_analysis": {
+            "location_factors": {
+              "connectivity": 0.8,
+              "amenities": 0.7,
+              "infrastructure": 0.8,
+              "safety": 0.6,
+              "development_potential": 0.7,
+              "market_demand": 0.8
+            },
+            "overall_assessment": "Rishi Nagar offers good connectivity via metro and rail, with proximity to major roads. It has decent amenities and infrastructure but could improve in safety and development potential."
+          },
+          "confidence": 0.7
+        },
+        "manipulation_check": {
+          "manipulation_detected": true,
+          "risk_score": 0.8,
+          "transaction_amount": 1125000,
+          "fair_market_value": 3189039.36,
+          "deviation_amount": -2064039.3599999999,
+          "deviation_percentage": -64.72291894195999,
+          "indicators": [
+            {
+              "type": "significant_undervaluation",
+              "severity": "HIGH",
+              "deviation_percentage": -64.72291894195999,
+              "potential_motive": "tax_evasion"
+            },
+            {
+              "type": "unreliable_market_valuation",
+              "severity": "MEDIUM",
+              "confidence": 0.4,
+              "potential_issue": "insufficient_comparable_data"
+            }
+          ],
+          "valuation_confidence": 0.4,
+          "ai_insights": {
+            "manipulation_likelihood": "High",
+            "investigation_steps": [
+              "Verify Property Documents",
+              "Assess Market Conditions",
+              "Review Payment Trails",
+              "Interview Parties Involved",
+              "Check for Shell Companies or Complex Ownership"
+            ],
+            "red_flags": [
+              "Significant Deviation from Fair Market Value",
+              "Potential for Money Laundering",
+              "Complex Payment Structure"
+            ]
+          }
+        },
+        "circle_rate_compliance": {
+          "compliant": false,
+          "compliance_status": "SEVERELY_NON_COMPLIANT",
+          "risk_level": "HIGH",
+          "transaction_amount": 1125000,
+          "minimum_circle_rate_value": 3189039.36,
+          "shortfall_amount": 2064039.3599999999,
+          "shortfall_percentage": 64.72291894195999,
+          "breakdown": {
+            "minimum_land_value": 2813291.52,
+            "minimum_construction_value": 375747.84,
+            "circle_rate_per_sqm": 56064,
+            "construction_rate_per_sqm": 7488
+          },
+          "tax_implications": {
+            "stamp_duty_on_transaction": 56250.0,
+            "stamp_duty_on_circle_rate": 159451.968,
+            "potential_tax_difference": 103201.968
+          },
+          "circle_rate_validation": {
+            "accurate": false,
+            "current_rate_range": "Not available for Rishi Nagar, Meerut. Nearby areas have rates around ₹5,200 per sq.ft.",
+            "confidence": "Low"
+          },
+          "confidence": 0.6
+        }
+      },
+      "property_id": "V-686",
+      "timestamp": "2025-05-24T12:44:04.048775",
+      "transaction_amount": 1125000,
+      "manipulation_detected": true
+    }
+  }
+}
