@@ -99,6 +99,9 @@ properties:
     - calculated_land_cost
     - calculated_construction_cost
     - total_calculated_cost
+    - total_duty
+    - stamp_duty_rate
+    - total_deal_sum
     properties:
       transaction_amount:
         type: number
@@ -135,6 +138,12 @@ properties:
       calculated_construction_cost:
         type: number
       total_calculated_cost:
+        type: number
+      total_duty:
+        type: number
+      stamp_duty_rate:
+        type: number
+      total_deal_sum:
         type: number
   parties:
     type: object
@@ -191,11 +200,15 @@ properties:
         - sellers
         - deed_number
         - registration_office
+        - buyers
         properties:
+          transaction_amount:
+            type: number
+            nullable: true
           date:
             type: string
             format: date
-          sellers:
+          prev_sellers:
             type: array
             items:
               type: string
@@ -203,3 +216,8 @@ properties:
             type: string
           registration_office:
             type: string
+          prev_buyers:
+            type: array
+            items:
+              type: string
+
