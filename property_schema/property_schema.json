@@ -1,166 +1,176 @@
 {
-    "$schema": "http://json-schema.org/draft-07/schema#",
-    "title": "Real Estate Transaction Record",
-    "type": "object",
-    "required": [
-      "document_metadata",
-      "property_details",
-      "transaction_details",
-      "parties",
-      "ownership_history"
-    ],
-    "properties": {
-      "document_metadata": {
-        "type": "object",
-        "required": [
-          "document_type",
-          "certificate_number",
-          "execution_date",
-          "registration_date",
-          "registration_number",
-          "registration_book",
-          "registration_volume",
-          "stamp_duty_paid",
-          "registration_fee",
-          "document_hash"
-        ],
-        "properties": {
-          "document_type":       { "type": "string" },
-          "certificate_number":  { "type": "string" },
-          "execution_date":      { "type": "string", "format": "date" },
-          "registration_date":   { "type": "string", "format": "date" },
-          "registration_number": { "type": "string" },
-          "registration_book":   { "type": "string" },
-          "registration_volume": { "type": "string" },
-          "stamp_duty_paid":     { "type": "number" },
-          "registration_fee":    { "type": "number" },
-          "document_hash":       { "type": "string" }
-        }
-      },
-      "property_details": {
-        "type": "object",
-        "required": [
-          "property_id",
-          "property_address",
-          "locality",
-          "area_sq_meters",
-          "floor",
-          "property_type",
-          "construction_year",
-          "old_numbers",
-          "khasra_number",
-          "village",
-          "land_share",
-          "total_land_area",
-          "built_land_area"
-        ],
-        "properties": {
-          "property_id":        { "type": "string" },
-          "property_address":   { "type": "string" },
-          "locality":           { "type": "string" },
-          "area_sq_meters":     { "type": "number" },
-          "floor":              { "type": "string" },
-          "property_type":      { "type": "string" },
-          "construction_year":  { "type": "string" },
-          "old_numbers": {
-            "type": "array",
-            "items": { "type": "string" }
-          },
-          "khasra_number":      { "type": "string" },
-          "village":            { "type": "string" },
-          "land_share":         { "type": "string" },
-          "total_land_area":    { "type": "string" },
-          "built_land_area":    { "type": "string" }
-        }
-      },
-      "transaction_details": {
-        "type": "object",
-        "required": [
-          "transaction_amount",
-          "transaction_currency",
-          "payment_method",
-          "circle_rate_per_sqm",
-          "construction_rate_per_sqm",
-          "calculated_land_cost",
-          "calculated_construction_cost",
-          "total_calculated_cost"
-        ],
-        "properties": {
-          "transaction_amount":        { "type": "number" },
-          "transaction_currency":      { "type": "string" },
-          "payment_method": {
-            "type": "array",
-            "items": {
-              "type": "object",
-              "required": ["amount","method","utr_number","date","bank"],
-              "properties": {
-                "amount":      { "type": "number" },
-                "method":      { "type": "string" },
-                "utr_number":  { "type": "string" },
-                "date":        { "type": "string", "format": "date" },
-                "bank":        { "type": "string" }
-              }
-            }
-          },
-          "circle_rate_per_sqm":         { "type": "number" },
-          "construction_rate_per_sqm":   { "type": "number" },
-          "calculated_land_cost":        { "type": "number" },
-          "calculated_construction_cost":{ "type": "number" },
-          "total_calculated_cost":       { "type": "number" }
-        }
-      },
-      "parties": {
-        "type": "object",
-        "required": ["sellers","buyer"],
-        "properties": {
-          "sellers": {
-            "type": "array",
-            "items": {
-              "type": "object",
-              "required": ["name","share","spouse","address"],
-              "properties": {
-                "name":    { "type": "string" },
-                "share":   { "type": "string" },
-                "spouse":  { "type": "string" },
-                "address": { "type": "string" }
-              }
-            }
-          },
-          "buyer": {
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Real Estate Transaction Record",
+  "type": "object",
+  "required": [
+    "document_metadata",
+    "property_details",
+    "transaction_details",
+    "parties",
+    "ownership_history"
+  ],
+  "properties": {
+    "document_metadata": {
+      "type": "object",
+      "required": [
+        "document_type",
+        "certificate_number",
+        "execution_date",
+        "registration_date",
+        "registration_number",
+        "registration_book",
+        "registration_volume",
+        "stamp_duty_paid",
+        "registration_fee",
+        "document_hash"
+      ],
+      "properties": {
+        "document_type":       { "type": "string" },
+        "certificate_number":  { "type": "string" },
+        "execution_date":      { "type": "string", "format": "date" },
+        "registration_date":   { "type": "string", "format": "date" },
+        "registration_number": { "type": "string" },
+        "registration_book":   { "type": "string" },
+        "registration_volume": { "type": "string" },
+        "stamp_duty_paid":     { "type": "number" },
+        "registration_fee":    { "type": "number" },
+        "document_hash":       { "type": "string" }
+      }
+    },
+    "property_details": {
+      "type": "object",
+      "required": [
+        "property_id",
+        "property_address",
+        "locality",
+        "area_sq_meters",
+        "floor",
+        "property_type",
+        "construction_year",
+        "old_numbers",
+        "khasra_number",
+        "village",
+        "land_share",
+        "total_land_area",
+        "built_land_area"
+      ],
+      "properties": {
+        "property_id":        { "type": "string" },
+        "property_address":   { "type": "string" },
+        "locality":           { "type": "string" },
+        "area_sq_meters":     { "type": "number" },
+        "floor":              { "type": "string" },
+        "property_type":      { "type": "string" },
+        "construction_year":  { "type": "string" },
+        "old_numbers": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "khasra_number":      { "type": "string" },
+        "village":            { "type": "string" },
+        "land_share":         { "type": "string" },
+        "total_land_area":    { "type": "string" },
+        "built_land_area":    { "type": "string" }
+      }
+    },
+    "transaction_details": {
+      "type": "object",
+      "required": [
+        "transaction_amount",
+        "transaction_currency",
+        "payment_method",
+        "circle_rate_per_sqm",
+        "construction_rate_per_sqm",
+        "calculated_land_cost",
+        "calculated_construction_cost",
+        "total_calculated_cost",
+        "total_duty",
+        "stamp_duty_rate",
+        "total_deal_sum"
+      ],
+      "properties": {
+        "transaction_amount":        { "type": "number" },
+        "transaction_currency":      { "type": "string" },
+        "payment_method": {
+          "type": "array",
+          "items": {
             "type": "object",
-            "required": ["name","spouse","address","mobile","electricity_ca"],
+            "required": ["amount","method","utr_number","date","bank"],
             "properties": {
-              "name":           { "type": "string" },
-              "spouse":         { "type": "string" },
-              "address":        { "type": "string" },
-              "mobile":         { "type": "string" },
-              "electricity_ca": { "type": "string" }
+              "amount":      { "type": "number" },
+              "method":      { "type": "string" },
+              "utr_number":  { "type": "string" },
+              "date":        { "type": "string", "format": "date" },
+              "bank":        { "type": "string" }
             }
           }
-        }
-      },
-      "ownership_history": {
-        "type": "object",
-        "required": ["previous_transaction"],
-        "properties": {
-          "previous_transaction": {
+        },
+        "circle_rate_per_sqm":         { "type": "number" },
+        "construction_rate_per_sqm":   { "type": "number" },
+        "calculated_land_cost":        { "type": "number" },
+        "calculated_construction_cost":{ "type": "number" },
+        "total_calculated_cost":       { "type": "number" },
+        "total_duty":                  { "type": "number" },
+        "stamp_duty_rate":             { "type": "number" },
+        "total_deal_sum":              { "type": "number" }
+      }
+    },
+    "parties": {
+      "type": "object",
+      "required": ["sellers","buyer"],
+      "properties": {
+        "sellers": {
+          "type": "array",
+          "items": {
             "type": "object",
-            "required": ["date","sellers","deed_number","registration_office"],
+            "required": ["name","share","spouse","address"],
             "properties": {
-              "date":                 { "type": "string", "format": "date" },
-              "sellers": {
-                "type": "array",
-                "items": { "type": "string" }
-              },
-              "buyers": {
-                "type": "array",
-                "items": { "type": "string" }
-              },
-              "deed_number":          { "type": "string" },
-              "registration_office":  { "type": "string" }
+              "name":    { "type": "string" },
+              "share":   { "type": "string" },
+              "spouse":  { "type": "string" },
+              "address": { "type": "string" }
             }
+          }
+        },
+        "buyer": {
+          "type": "object",
+          "required": ["name","spouse","address","mobile","electricity_ca"],
+          "properties": {
+            "name":           { "type": "string" },
+            "spouse":         { "type": "string" },
+            "address":        { "type": "string" },
+            "mobile":         { "type": "string" },
+            "electricity_ca": { "type": "string" }
+          }
+        }
+      }
+    },
+    "ownership_history": {
+      "type": "object",
+      "required": ["previous_transaction"],
+      "properties": {
+        "previous_transaction": {
+          "type": "object",
+          "required": ["date","prev_sellers","deed_number","registration_office","prev_buyers"],
+          "properties": {
+            "transaction_amount": { 
+              "type": "number",
+              "nullable": true
+            },
+            "date":                 { "type": "string", "format": "date" },
+            "prev_sellers": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "prev_buyers": {
+              "type": "array",
+              "items": { "type": "string" }
+            },
+            "deed_number":          { "type": "string" },
+            "registration_office":  { "type": "string" }
           }
         }
       }
     }
   }
+}
