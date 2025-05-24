@@ -1,0 +1,16 @@
+requests 
+python-dotenv 
+fastapi 
+uvicorn 
+openai
+asyncio
+Pydantic
+email-validator 
+python-multipart 
+httpx 
+jinja2 
+numpy
+pytess
+pytesseract
+pdf2image 
+PyYAML

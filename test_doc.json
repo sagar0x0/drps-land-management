@@ -1,0 +1,103 @@
+{
+    "document_metadata": {
+      "document_type": "SALE DEED",
+      "certificate_number": "IN-0L61365966288224T",
+      "execution_date": "2021-12-17",
+      "registration_date": "2021-12-25",
+      "registration_number": "18246",
+      "registration_book": "1",
+      "registration_volume": "1037",
+      "stamp_duty_paid": 45000.0,
+      "registration_fee": 11250.0,
+      "document_hash": null
+    },
+    "property_details": {
+      "property_id": "V-686",
+      "property_address": "PROP. NO.V-686, RISHI NAGAR, SHAKUR BASTI, DELHI-34",
+      "locality": "RISHI NAGAR",
+      "area_sq_meters": 50.18,
+      "floor": "4",
+      "property_type": "Residential",
+      "construction_year": "after 2000",
+      "old_numbers": [
+        "2263",
+        "WZ-279",
+        "380"
+      ],
+      "khasra_number": "369",
+      "village": "SALEEMPUR MAZRA MADIPUR",
+      "land_share": "1/4 share in land",
+      "total_land_area": "125 sq.yds.",
+      "built_land_area": "60 sq.yds."
+    },
+    "transaction_details": {
+      "transaction_amount": 1125000.0,
+      "transaction_currency": "INR",
+      "payment_method": [
+        {
+          "amount": 562500.0,
+          "method": "RTGS",
+          "utr_number": "CNRBR52021111571700740",
+          "date": "2021-11-15",
+          "bank": "Canara Bank, Rani Bagh, Delhi"
+        },
+        {
+          "amount": 562500.0,
+          "method": "RTGS",
+          "utr_number": "CNRBR52021111571700879",
+          "date": "2021-11-15",
+          "bank": "Canara Bank, Rani Bagh, Delhi"
+        }
+      ],
+      "circle_rate_per_sqm": 56064.0,
+      "construction_rate_per_sqm": 7488.0,
+      "calculated_land_cost": 703322.0,
+      "calculated_construction_cost": 375747.0,
+      "total_calculated_cost": 1079070.0,
+      "total_duty": 45000.0,
+      "stamp_duty_rate": 2.0,
+      "total_deal_sum": 1125000.0
+    },
+    "parties": {
+      "sellers": [
+        {
+          "name": "SMT. ANJU KHURANA",
+          "share": "50% UNDIVIDED SHARE",
+          "spouse": "Shri Madan Gopal Khurana",
+          "address": "1847, Rani Bagh, Shakur Basti, Delhi-110034"
+        },
+        {
+          "name": "SMT. ANJANA GULATI",
+          "share": "50% UNDIVIDED SHARE",
+          "spouse": "Shri Kuldeep Gulati",
+          "address": "24, First Floor, Shakti Vihar, Delhi-110034"
+        }
+      ],
+      "buyer": {
+        "name": "SMT. MANJULA",
+        "spouse": "Shri Singha Ram",
+        "address": "473, E-Block, Shakur Pur J.J. Colony, Delhi-110034",
+        "mobile": "9718695530",
+        "electricity_ca": "23644"
+      }
+    },
+    "ownership_history": {
+      "previous_transaction": {
+        "transaction_amount": null,
+        "date": "2018-06-15",
+        "prev_sellers": [
+          "SHRI YASH PAUL BATRA",
+          "SHRI INDER PAUL BATRA",
+          "SHRI DHARAM PAUL BATRA",
+          "SHRI MITTER PAUL BATRA"
+        ],
+        "deed_number": "8636",
+        "registration_office": "Sub-Registrar-VII-A, Pitampura, Delhi",
+        "prev_buyers": [
+          "SMT. ANJU KHURANA",
+          "SMT. ANJANA GULATI"
+        ]
+      }
+    }
+  }
+  
